@@ -1,1 +1,87 @@
+    .nav-square {
+      display: inline-block;
+      width: 150.258px;
+      height: 25.258px;
+      background-color: CornflowerBlue;
+      border-radius: 10.258px;
+      margin: 10.258px;
+      text-align: center;
+      line-height: 25.258px;
+      font-size: 16px;
+      color: white;
+      cursor: pointer;
+    }
+    .nav-square2 {
+            display: inline-block;
+            width: 170px;
+            height: 25px;
+            background-color: CornflowerBlue;
+            border-radius: 10px;
+            margin: 10px;
+            text-align: center;
+            line-height: 25px;
+            font-size: 16px;
+            color: white;
+            cursor: pointer;
+        }
 
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+
+    body {
+      background-color: #18181d;
+      font-family: 'Lato';
+      font-size: 22px;
+    }
+    .centered-paragraph {
+      text-align: center;
+      margin: 1rem auto 2rem;
+      max-width: 800px;
+      font-weight: small;
+      color: white;
+      background-color: SteelBlue;
+      border-radius: 10px;
+      padding: 1rem;
+    }
+.centered-button {
+      text-align: center;
+      margin: 1rem auto 2rem;
+      max-width: 800px;
+      font-weight: small;
+      animation: bounce 2s infinite ease-in-out;
+      color: white;
+      background-color: SteelBlue;
+      border-radius: 10px;
+      padding: 1rem;
+      cursor: pointer;
+    }
+/* Style your navigation bar */
+nav {
+    background-color: #52b2cf;
+    overflow: hidden;
+}
+
+/* Style your navigation links */
+.navigation li {
+    float: left;
+    margin-left: 50px;
+}
+
+.navigation li a {
+    /* Your existing styles */
+}
+
+/* Style your logo */
+.logo {
+    float: left; /* or use position: absolute; */
+    margin: 10px; /* Adjust as needed */
+}
+
+/* Other styles (e.g., body, h1, h2, etc.) remain unchanged */
