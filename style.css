@@ -24,6 +24,10 @@
             color: white;
             cursor: pointer;
         }
+.hidden {
+  display: none;
+}
+
 
     footer {
       background-color: #333;
