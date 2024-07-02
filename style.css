@@ -11,6 +11,19 @@
       color: white;
       cursor: pointer;
     }
+    .nav-square-toggle {
+      display: inline-block;
+      width: 150.258px;
+      height: 25.258px;
+      background-color: CornflowerBlue;
+      border-radius: 10.258px;
+      margin: 10.258px;
+      text-align: center;
+      line-height: 25.258px;
+      font-size: 16px;
+      color: white;
+      cursor: pointer;
+    }
     .nav-square2 {
             display: inline-block;
             width: 170px;
