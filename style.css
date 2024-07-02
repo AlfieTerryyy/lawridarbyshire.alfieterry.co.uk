@@ -1,3 +1,4 @@
+
     .nav-square {
       display: inline-block;
       width: 150.258px;
@@ -102,3 +103,7 @@ nav {
 }
 
 /* Other styles (e.g., body, h1, h2, etc.) remain unchanged */
+
+body {
+  color: white;
+}
